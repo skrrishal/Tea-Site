@@ -7,7 +7,7 @@ export default function Home() {
 
         <div className="font-sans font-bold text-5xl flex justify-center items-center gap-4">
           Tea
-          <span className="border border-blue-700 rounded-full ring-1"><img width={170} height={170} src="https://media.giphy.com/media/I8ZhN7Agm7Feif89T5/giphy.gif?cid=790b7611rykwpctemulzbv6zq89aynworl46d3p2bv234tgv&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Tea_GIF" /></span>
+          <span className="border border-blue-700 rounded-full ring-1"><img width={170} height={170} src="/teaTime.webp" alt="Tea_GIF" /></span>
           Site
         </div>
 
